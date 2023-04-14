@@ -1,0 +1,22 @@
+.note-title {
+  /* margin-top: 1em; */
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid rgb(53, 53, 53);
+  cursor: pointer;
+  border-radius: var(--_radius);
+}
+
+.note-title.active {
+  border: 1px solid rgb(0, 89, 255);
+
+}
+
+@media (max-width: 768px) {
+  .note-title {
+    padding: 1em;
+
+  }
+
+
+}

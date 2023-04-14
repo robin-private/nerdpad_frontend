@@ -1,0 +1,16 @@
+.side-bar {
+  border: 1px solid rgb(53, 53, 53);
+  flex: 30%;
+  position: relative;
+  height: 85%;
+  border-radius: var(--_radius);
+}
+
+@media (max-width: 768px) {
+  .side-bar {
+    border: 1px solid rgb(53, 53, 53);
+    flex: 40%;
+    height: 85%;
+    position: relative;
+  }
+}

@@ -1,0 +1,14 @@
+
+.primary-nav {
+    background-color: hsl(var(--nav));
+    padding: 16px 32px;
+    border: 1px solid rgb(53, 53, 53);
+    border-radius: var(--_radius);
+  }
+  
+  nav a {
+    padding: 10px 32px;
+    margin-right: 16px;
+    border: 1px solid rgba(53, 53, 53, 0.527);
+  }
+  

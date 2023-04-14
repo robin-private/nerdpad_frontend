@@ -1,0 +1,12 @@
+
+.create-button{
+    padding: 10px 20px;
+    background-color: hsl(var(--accent));
+    border-radius: var(--_radius);
+    /* position: absolute; */
+    /* max-height: 2em; */
+    left: 5px;
+    place-items: center;
+    gap: 0.5em;
+    padding: 0.35em;
+  }
